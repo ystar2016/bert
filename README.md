@@ -1,4 +1,4 @@
-# BERT
+# BERT（自然语言预训练）
 
 **\*\*\*\*\* New November 5th, 2018: Third-party PyTorch version of BERT
 available \*\*\*\*\***
